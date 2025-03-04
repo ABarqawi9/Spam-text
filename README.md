@@ -1,5 +1,3 @@
-# AutoMessageSpammer
-License: MIT License
 
 ## Description
  This Python script is a simple automation tool designed to send a series of predefined messages from a text file using PyAutoGUI.
@@ -38,9 +36,3 @@ While this script serves its basic purpose, there are opportunities for future e
 - **User-Friendly Configuration:** Implement a user-friendly configuration file for easy customization.
 - **Logging:** Add logging functionality to track sent messages.
 - **Error Handling:** Enhance error handling for better resilience.
-
-## Contributing
-Contributions to this project are welcome! If you encounter issues, have suggestions for improvement, or would like to add new features, please feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE) file.
